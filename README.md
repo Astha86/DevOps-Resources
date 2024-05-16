@@ -1,51 +1,13 @@
-# Web Development ♾️
+# DevOps ♾️
+Open source development involves collaborative creation of software where the source code is freely available for anyone to view, modify, and distribute. It fosters transparency, innovation, and community-driven improvement. Developers globally contribute code, fix bugs, and suggest enhancements, often through platforms like GitHub. Projects range from small utilities to complex systems like Linux and Apache. Open source encourages diversity, enabling developers from diverse backgrounds to participate and learn. It democratizes technology, offering accessible solutions and empowering users to tailor software to their needs while promoting a culture of sharing and cooperation in the tech community.
 
 ## Table of Contents
-
-- [Overview](#overview)<br>
-
-- [Roadmap](roadmaps)
-
-  - [Front-End Development Roadmap](#front-end-development)
-  - [Back-End Development Roadmap](#back-end-development)
-  - [DevOps Roadmap](#devops)
-  - [Full-Stack Development Roadmap](#full-stack-development)
-
-- [Tutorials or Courses](#tutorials-or-courses)
-
-  - [Front-End Development](#front-end-development-1)
-  - [Back-End Development](#backend-development)
-  - [DevOps](#devops-1)
-  - [Full-Stack Development](#full-stack-development-1)
-
-- [Tools](#tools)<br>
-  - [Typography](#typography)
-  - [Colors](#colors)
-  - [Generators](#generators)
-  - [Icons](#icons)
-  - [Animations](#animations)
-  - [Code Playgrounds](#code-playgrounds)
-  - [Chrome extenstion](#chrome-extenstion)
-  - [Stock Photos & Videos](#stock-photos-videos)
-  - [SVGs](#svgs)
-  - [Other Tools](#other-tools)
-- [UI Components](#ui-components)<br>
-- [Books](#books)<br>
-- [Communities](#communities)
-  - [Reddit](#reddit)
-  - [Discord](#discord)
-  - [Facebook Groups](#facebook-groups)
-  - [X Tech Communities](#x-tech-communities)
-  - [Other Communities](#other-communities)
-- [Youtube Channels](#youtube-channels)<br>
-- [Games](#games)<br>
-- [Interview](#interview)<br>
-- [Challenges](#challenges)<br>
-- [Best Practices](#best-practices)
-
-### Overview
-
-This category is a curated collection of valuable web development resources contributed by amazing contributors. Here, you will find a wide range of materials and information about web development.
+- [Roadmap](#)<br>
+- [Tutorial or Courses](#)<br>
+- [Tools and Technologies](#)<br>
+- [Community](#)<br>
+- [Events](#)<br>
+- [Youtube Channels](#)
 
 ### Roadmap
 
