@@ -1,4 +1,4 @@
-# Web Development 🌐
+# Web Development ♾️
 
 ## Table of Contents
 
