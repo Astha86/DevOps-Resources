@@ -58,10 +58,6 @@ DevOps is a combination of software development (dev) and operations (ops). It i
       <td>This tutorial contains information about AWS services for DevOps and a walkthrough you can use to experiment with those services.</td>
   </tr>
   <tr>
-      <td><a href="https://aws.amazon.com/devops/resources/">AWS Documentation</a></td>
-      <td>This is the official documenatation of AWS which have collection of free videos and labs to help you get you started with DevOps services.</td>
-  </tr>
-  <tr>
       <td><a href="https://www.youtube.com/live/7Hww8PPHHE0?si=b0ezlKO0qoRJ_mb_">Microsoft Azure</a></td>
       <td>This Azure Tutorial is ideal for both beginners as well as professionals who want to master Azure services. Azure DevOps provides an integrated set of services and tools to manage your software projects, from planning and development through testing and deployment. Azure DevOps delivers services through a client/server model.</td>
   </tr>
