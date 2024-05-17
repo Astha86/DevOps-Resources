@@ -167,7 +167,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
     </tr>
     <tr>
        <td><a href="https://www.youtube.com/@KodeKloud/videos">KodeKloud </a></td>
-       <td>KodeKloud helps you build a successful DevOps career through the best DevOps courses available. Whether you are an absolute beginner or a seasoned specialist, our courses and hands-on labs will give you the tools and confidence to excel at your new DevOps job.</td>
+       <td>KodeKloud helps you build a successful DevOps career through the best DevOps courses available. Whether you are an absolute beginner or a seasoned specialist, their courses and hands-on labs will give you the tools and confidence to excel at your new DevOps job.</td>
     </tr>
 </table>
 
